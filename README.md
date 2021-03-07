@@ -62,6 +62,29 @@ Here are some ideas to get you started:
 测试效果如下：
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+>这个横版好像也不错~  ——[参考Charmve/Charmve](https://github.com/Charmve/Charmve)
+
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/Charmve">
+    <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve">
+    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/Charmve">
+    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/Charmve">
+    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  </a>
+
+  
 ### 热门语言卡片
 
 >热门语言卡片显示了 GitHub 用户常用的编程语言
