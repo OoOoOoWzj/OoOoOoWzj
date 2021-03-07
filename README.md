@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ----
 ## 个人介绍
 >**模板自带的借来用用**
@@ -50,6 +51,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow"></code>
+
 ----
 ## 动态生成GitHub统计信息
 ### GitHub 统计卡片
@@ -101,7 +103,7 @@ Here are some ideas to get you started:
 
 具体说明可参考 github 上的[anuraghazra/github-readme-stats项目](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
-
+----
 ## 显示编码时长
 > **wakatime** 记录coding时间的工具
 
